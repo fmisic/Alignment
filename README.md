@@ -212,6 +212,10 @@ programa simulira ispis u konzoli.
 (Nakon što kliknemo `Show Console` i pojavi se okvir s desne strane, tekst gumba
 će se promijeniti u `Hide Console` te ponovnim klikom se spomenuti okvir sakriva.)
 
+<br />
+
+![Grafičko sučelje](/msaga_gui.png?raw=true)
+
 
 ## Potrebni alati
 
